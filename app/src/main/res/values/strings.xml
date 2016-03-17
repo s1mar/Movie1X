@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie1X</string>
+        <string name="fav">Favourite</string>
+        <string-array name="spinnerVals">
+            <item>Select Filter</item>
+            <item>Popular Movies</item>
+            <item>Rated R</item>
+            <item>Popular With Kids</item>
+            <item>Release Of The Year</item>
+            <item>Favourites</item>
+        </string-array>
+    </resources>
+
